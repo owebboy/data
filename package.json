@@ -21,6 +21,6 @@
   "homepage": "https://github.com/curran/data",
   "dependencies": {
     "d3": "^4.4.4",
-    "dsv-dataset": "^0.1.1"
+    "dsv-dataset": "^0.2.1"
   }
 }
